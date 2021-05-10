@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cra-gh-pages/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/cra-gh-pages/static/js/main.b51a49dd.chunk.js",
+    "main.js.map": "/cra-gh-pages/static/js/main.b51a49dd.chunk.js.map",
+    "runtime-main.js": "/cra-gh-pages/static/js/runtime-main.7dafe59d.js",
+    "runtime-main.js.map": "/cra-gh-pages/static/js/runtime-main.7dafe59d.js.map",
+    "static/js/2.8e1f1c0d.chunk.js": "/cra-gh-pages/static/js/2.8e1f1c0d.chunk.js",
+    "static/js/2.8e1f1c0d.chunk.js.map": "/cra-gh-pages/static/js/2.8e1f1c0d.chunk.js.map",
+    "static/js/3.6099c494.chunk.js": "/cra-gh-pages/static/js/3.6099c494.chunk.js",
+    "static/js/3.6099c494.chunk.js.map": "/cra-gh-pages/static/js/3.6099c494.chunk.js.map",
+    "index.html": "/cra-gh-pages/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/cra-gh-pages/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.8e1f1c0d.chunk.js.LICENSE.txt": "/cra-gh-pages/static/js/2.8e1f1c0d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cra-gh-pages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dafe59d.js",
+    "static/js/2.8e1f1c0d.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b51a49dd.chunk.js"
+  ]
+}
